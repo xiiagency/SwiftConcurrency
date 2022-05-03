@@ -21,10 +21,5 @@ let package =
         name: "SwiftConcurrency",
         dependencies: []
       ),
-      // NOTE: Re-enable when tests are added.
-//      .testTarget(
-//        name: "SwiftConcurrencyTests",
-//        dependencies: ["SwiftConcurrency"]
-//      ),
     ]
   )
